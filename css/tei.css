@@ -30,3 +30,7 @@ tei-expan {
 tei-del {
 text-decoration: line-through;
 }
+
+tei-add {
+    text-decoration: wavy greenyellow;
+}
