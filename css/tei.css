@@ -15,3 +15,6 @@ tei-p {
     display: block;
 }
 tei-persname {
+    font-variant: small-caps;
+color: blue;
+}
