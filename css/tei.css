@@ -1,0 +1,16 @@
+tei-body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 12pt;
+}
+
+tei-head {
+display: block;
+color: grey;
+font-weight: bold;
+font-size: xx-large;
+text-align: center;
+}
+
+tei-p {
+    display: block;
+}
