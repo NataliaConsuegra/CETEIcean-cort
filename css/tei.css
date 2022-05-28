@@ -32,6 +32,6 @@ text-decoration: line-through;
 }
 
 tei-add {
-    text-decoration: double greenyellow;
+    text-decoration-line: underline greenyellow;
     color: orange;
 }
